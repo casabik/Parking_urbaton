@@ -1,0 +1,25 @@
+{
+  "name": "parking",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@solidjs/router": "^0.9.1",
+    "@suid/icons-material": "^0.6.11",
+    "@suid/material": "^0.15.1",
+    "@suid/vite-plugin": "^0.1.5",
+    "@thisbeyond/solid-select": "^0.14.0",
+    "mapbox-gl": "^2.15.0",
+    "solid-js": "^1.8.5",
+    "solid-map-gl": "^1.10.2"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0",
+    "vite-plugin-solid": "^2.7.2"
+  }
+}
